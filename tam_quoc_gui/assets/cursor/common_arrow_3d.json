@@ -1,0 +1,24 @@
+{
+  "hotspot_uv": [
+    0.197265625,
+    0.119140625
+  ],
+  "source_tip_pixels": [
+    50,
+    30
+  ],
+  "asset_size": [
+    256,
+    256
+  ],
+  "draw_size": [
+    56,
+    56
+  ],
+  "theme": "shared-neutral",
+  "states": [
+    "normal",
+    "hover",
+    "pressed"
+  ]
+}
